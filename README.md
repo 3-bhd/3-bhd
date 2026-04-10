@@ -24,16 +24,18 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [AI vs Human Text Detector](https://github.com/3-bhd/AI-vs-Human-Text-Detector) | Real-time text classifier · 99.96% accuracy · Flask API · CI/CD | Python, Flask, SVM |
-| [U-Ride](https://github.com/3-bhd/U-Ride_Ride_Hailing_Management_System) | Full-stack ride-hailing platform · Agile/Scrum | Python, Flask, SQLite |
+| [U-Ride](https://github.com/3-bhd/ride-hailing-app-team6) | Full-stack ride-hailing platform · Agile/Scrum | Python, Flask, SQLite |
 | [Sudoku Solver CV](https://github.com/3-bhd/Sudoku-Solver-CV) | End-to-end CV pipeline · 93.75% success rate | Python, OpenCV |
 | [ASR System](https://github.com/3-bhd/ASR-WFST-Viterbi) | WFST-based speech recognition · 81% WER reduction | Python, WFST, HMM |
 | [RISC-V Processor](https://github.com/3-bhd/RISC-V-Pipelined-Processor) | 5-stage pipelined CPU · 40% performance gain | Verilog |
-| [Game DSL](https://github.com/3-bhd/Game-DSL) | Domain-specific language for grid-based games | Xtext, Java |
+| [Game DSL](https://github.com/3-bhd/Game-DSL) | DSL for grid-based games · parser, AST, Eclipse editor | Xtext, Java |
+| [Tomasulo Simulator](https://github.com/my612/femTomas-Tomasulo-Algorithm-Simulation) | Out-of-order execution simulator with GUI | Python |
+| [Clash Off Clans](https://github.com/3-bhd/Clash-of-Clans-OOP) | Strategy game with Dijkstra pathfinding · Qt GUI | C++, Qt |
 
 ---
 
