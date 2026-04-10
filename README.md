@@ -18,7 +18,7 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 
 **Languages:** Python · C++ · Verilog · Assembly · SQL · HTML/CSS · JavaScript
 
-**Technologies:** Flask · OpenCV · scikit-learn · NumPy · Git · Linux · CI/CD · Qt
+**Technologies:** Linux · Flask · OpenCV · scikit-learn · NumPy · Git · Linux · CI/CD · Qt 
 
 **Concepts:** Machine Learning · NLP · Computer Vision · Computer Architecture · Algorithms
 
