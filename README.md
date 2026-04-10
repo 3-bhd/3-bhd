@@ -34,7 +34,7 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 | [ASR System](https://github.com/3-bhd/ASR-WFST-Viterbi) | WFST-based speech recognition · 81% WER reduction | Python, WFST, HMM |
 | [RISC-V Processor](https://github.com/3-bhd/RISC-V-Pipelined-Processor) | 5-stage pipelined CPU · 40% performance gain | Verilog |
 | [Game DSL](https://github.com/3-bhd/Game-DSL) | DSL for grid-based games · parser, AST, Eclipse editor | Xtext, Java |
-| [Tomasulo Simulator](https://github.com/my612/femTomas-Tomasulo-Algorithm-Simulation) | Out-of-order execution simulator with GUI | Python |
+| [Tomasulo Simulator](https://github.com/3-bhd/femTomas-Tomasulo-Algorithm-Simulation) | Out-of-order execution simulator with GUI | Python |
 | [Clash Off Clans](https://github.com/3-bhd/Clash-of-Clans-OOP) | Strategy game with Dijkstra pathfinding · Qt GUI | C++, Qt |
 
 ---
