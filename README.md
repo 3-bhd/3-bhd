@@ -36,6 +36,7 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 | [Game DSL](https://github.com/3-bhd/Game-DSL) | DSL for grid-based games · parser, AST, Eclipse editor | Xtext, Java |
 | [Tomasulo Simulator](https://github.com/3-bhd/femTomas-Tomasulo-Algorithm-Simulation) | Out-of-order execution simulator with GUI | Python |
 | [Clash Off Clans](https://github.com/3-bhd/Clash-of-Clans-OOP) | Strategy game with Dijkstra pathfinding · Qt GUI | C++, Qt |
+| [AUC Navigation System](https://github.com/3-bhd/AUC-Navigation-System) | Indoor A* pathfinding on HUSS building · interactive Qt GUI | C++, Qt |
 
 ---
 
