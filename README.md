@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Omar Abdelhady 👋
 
-<!--
-**3-bhd/3-bhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Cairo, Egypt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 BSc Computer Science (AI Specialization) @ The American University in Cairo — GPA 3.77
+- 🌍 Currently on exchange at the **University of Edinburgh**
+- 🏆 Student Leaders Scholarship · High Honors & Dean's List
+- 🤖 Interested in **Machine Learning, NLP, Computer Vision, and Systems**
+- 🌱 Always building something new
+
+---
+
+## Tech Stack
+
+**Languages:** Python · C++ · Verilog · Assembly · SQL · HTML/CSS · JavaScript
+
+**Technologies:** Flask · OpenCV · scikit-learn · NumPy · Git · Linux · CI/CD
+
+**Concepts:** Machine Learning · NLP · Computer Vision · Computer Architecture · Algorithms
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [AI vs Human Text Detector](https://github.com/3-bhd/AI-vs-Human-Text-Detector) | Real-time text classifier · 99.96% accuracy · Flask API · CI/CD | Python, Flask, SVM |
+| [U-Ride](https://github.com/3-bhd/U-Ride_Ride_Hailing_Management_System) | Full-stack ride-hailing platform · Agile/Scrum | Python, Flask, SQLite |
+| [Sudoku Solver CV](https://github.com/3-bhd/Sudoku-Solver-CV) | End-to-end CV pipeline · 93.75% success rate | Python, OpenCV |
+| [ASR System](https://github.com/3-bhd/ASR-WFST-Viterbi) | WFST-based speech recognition · 81% WER reduction | Python, WFST, HMM |
+| [RISC-V Processor](https://github.com/3-bhd/RISC-V-Pipelined-Processor) | 5-stage pipelined CPU · 40% performance gain | Verilog |
+| [Game DSL](https://github.com/3-bhd/Game-DSL) | Domain-specific language for grid-based games | Xtext, Java |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bhd)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omar.hady31@gmail.com)
