@@ -1,13 +1,11 @@
 # Hi, I'm Omar Abdelhady 👋
-
-CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Cairo, Egypt
+CS Student @ AUC (AI Specialization) · Edinburgh Exchange Alum · Cairo, Egypt
 
 ---
 
 ## About Me
-
 - 🎓 BSc Computer Science (AI Specialization) @ The American University in Cairo — GPA 3.77
-- 🌍 Currently on exchange at the **University of Edinburgh**
+- 🌍 Completed an exchange semester at the **University of Edinburgh** (Jan–May 2026)
 - 🏆 Student Leaders Scholarship · High Honors & Dean's List
 - 🤖 Interested in **Machine Learning, NLP, Computer Vision, and Systems**
 - 🌱 Always building something new
@@ -15,17 +13,15 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 ---
 
 ## Tech Stack
-
 **Languages:** Python · C++ · Verilog · Assembly · SQL · HTML/CSS · JavaScript
 
-**Technologies:** Linux · Flask · OpenCV · scikit-learn · NumPy · Git · Linux · CI/CD · Qt 
+**Technologies:** Linux · Flask · PyTorch · scikit-learn · OpenCV · NumPy · Git · CI/CD · Qt
 
 **Concepts:** Machine Learning · NLP · Computer Vision · Computer Architecture · Algorithms
 
 ---
 
 ## Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [AI vs Human Text Detector](https://github.com/3-bhd/AI-vs-Human-Text-Detector) | Real-time text classifier · 99.96% accuracy · Flask API · CI/CD | Python, Flask, SVM |
@@ -41,6 +37,5 @@ CS Student @ AUC (AI Specialization) · Exchange @ University of Edinburgh · Ca
 ---
 
 ## Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bhd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarabdelhady@aucegypt.edu)
